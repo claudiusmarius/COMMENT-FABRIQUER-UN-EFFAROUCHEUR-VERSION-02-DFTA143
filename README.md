@@ -1,4 +1,4 @@
-# COMMENT-FABRIQUER-UN-EFFAROUCHEUR-VERSION-02-DFTA143
+# COMMENT-FABRIQUER-UN-EFFAROUCHEUR-VERSION-02-DFTA143 https://youtu.be/t51ohe4OOGo
 Dispositif basé sur l'utilisation d'un DFPlayer PRO et d'un Seeeduino XIAO
 
 Ce petit montage est dans la continuité de mes systèmes « Effaroucheurs de pigeons » toujours en restant dans des dispositifs « softs » cad non létaux, il est complémentaire à mon système répulsif générant toutes sortes de bruits désagréables en cas de détection d’intrusion dans mon grenier.
