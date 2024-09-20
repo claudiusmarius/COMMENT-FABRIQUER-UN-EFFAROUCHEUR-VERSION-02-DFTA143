@@ -7,4 +7,4 @@ J’utilise un DFPlayer PRO dans lequel j’ai téléversé des fichiers contena
 Le bouton poussoir SW1 a été prévu pour permettre une possibilité de « manager » manuellement le MCU, de même J4 pour une gestion par des conditions externes mais ne sont pas utilisés pour l’instant.
 Le DFPlayer PRO a le gros avantage de ne pas nécessiter de micro carte SD, la partie mémoire se comporte un peu comme une clé USB je vous renvoie à ma vidéo tutorielle DFT_#A119 :
 https://youtu.be/PkXhwwlUT0w
-
+Lien vers le wiki du DFPlayer PRO : https://wiki.dfrobot.com/DFPlayer_PRO_SKU_DFR0768
